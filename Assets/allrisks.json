@@ -1,0 +1,68 @@
+{
+  "Sudden cardiac death": {
+    "Overall": {
+      "Sudden cardiac death risk at 3yr": 2.0,
+      "Sudden cardiac death risk at 5yr": 3.5,
+      "Sudden cardiac death risk at 10yr": 7.7
+    },
+    "Cluster 1": {
+      "Sudden cardiac death risk at 3yr": 0.4,
+      "Sudden cardiac death risk at 5yr": 2.1,
+      "Sudden cardiac death risk at 10yr": 2.1
+    },
+    "Cluster 2": {
+      "Sudden cardiac death risk at 3yr": 4.1,
+      "Sudden cardiac death risk at 5yr": 5.9,
+      "Sudden cardiac death risk at 10yr": 12.4
+    },
+    "Cluster 3": {
+      "Sudden cardiac death risk at 3yr": 0.0,
+      "Sudden cardiac death risk at 5yr": 0.7,
+      "Sudden cardiac death risk at 10yr": 6.0
+    }
+  },
+  "New onset afib": {
+    "Overall": {
+      "New onset afib risk at 3yr": 4.3,
+      "New onset afib risk at 5yr": 8.5,
+      "New onset afib risk at 10yr": 17.5
+    },
+    "Cluster 1": {
+      "New onset afib risk at 3yr": 2.0,
+      "New onset afib risk at 5yr": 5.2,
+      "New onset afib risk at 10yr": 10.4
+    },
+    "Cluster 2": {
+      "New onset afib risk at 3yr": 5.2,
+      "New onset afib risk at 5yr": 10.7,
+      "New onset afib risk at 10yr": 21.4
+    },
+    "Cluster 3": {
+      "New onset afib risk at 3yr": 5.6,
+      "New onset afib risk at 5yr": 8.7,
+      "New onset afib risk at 10yr": 18.8
+    }
+  },
+  "HF Event": {
+    "Overall": {
+      "HF Event risk at 3yr": 10.7,
+      "HF Event risk at 5yr": 17.3,
+      "HF Event risk at 10yr": 33.6
+    },
+    "Cluster 1": {
+      "HF Event risk at 3yr": 1.7,
+      "HF Event risk at 5yr": 3.3,
+      "HF Event risk at 10yr": 11.0
+    },
+    "Cluster 2": {
+      "HF Event risk at 3yr": 11.3,
+      "HF Event risk at 5yr": 17.9,
+      "HF Event risk at 10yr": 30.3
+    },
+    "Cluster 3": {
+      "HF Event risk at 3yr": 21.2,
+      "HF Event risk at 5yr": 33.0,
+      "HF Event risk at 10yr": 64.8
+    }
+  }
+}

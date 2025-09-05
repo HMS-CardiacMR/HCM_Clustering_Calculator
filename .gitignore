@@ -1,0 +1,8 @@
+# Data and assets (PHI)
+Assets/medoids.csv
+
+# Jupyter notebooks
+*.ipynb
+
+# Compiled Python files
+*.pyc
